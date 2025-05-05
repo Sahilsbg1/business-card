@@ -19,6 +19,8 @@ body {
     margin: 0 auto;
     padding: 75px;
     display: flex;
+    position: relative;
+    will-change: transform;
     justify-content: space-around;
     text-align: center;
     background: #111;
